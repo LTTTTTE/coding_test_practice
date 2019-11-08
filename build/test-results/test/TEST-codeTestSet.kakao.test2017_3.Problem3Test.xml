@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="codeTestSet.kakao.test2017_3.Problem3Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-08T10:29:38" hostname="DESKTOP-14JJLV8" time="0.05">
+  <properties/>
+  <testcase name="test" classname="codeTestSet.kakao.test2017_3.Problem3Test" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
