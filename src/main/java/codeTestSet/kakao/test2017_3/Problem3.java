@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-
+// https://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/
+// 문제 3 파일명 정렬
 public class Problem3 {
     public String[] solution(String[] files) {
         return Arrays.stream(files).map(x->{
